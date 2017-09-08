@@ -1,0 +1,106 @@
+#+EXPORT_FILE_NAME: wildwater-1-syllabus
+#+STARTUP: customtime
+#+OPTIONS: toc:nil H:3 num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil 
+#+HUGO_BASE_DIR: ./ww-site/
+#+HUGO_SECTION: article
+#+HUGO_STATIC_IMAGES: images
+#+HUGO_MENU: :menu main :weight 80
+#+MACRO: ts (eval (get-ts+7))
+#+TITLE: Wild Water I
+
+* Logistics
+
+| *Instructor:*      | Matt Price             |
+| *Email:*           | matt.price@utoronto.ca |
+| *Office Hrs:*      | SS 3077 T 1:30-2:45    |
+| *Course Meetings:* | Mon 3-5, [[http://map.utoronto.ca/utsg/building/032][WE 69]]         |
+
+* About Wild Water
+This course is the first of a two-semester sequence exploring the history and culture of rivers -- the "wild waters" which have played (and continue to play!) a pivotal role in so many of the world's cultures. Like a river itself, these courses meander, rush, then slow, ebb and flow. The first semester provides a broad introduction to the topic, while the second semester (syllabus forthcoming in late October) will provide opportunities for deeper investigations. This fall we have two main objectives.
+
+First, we are motivated by a set of theoretical and methodological questions. What exactly is a "river"? How have rivers shaped the course of history on  both local and global scales? What contributions have rivers made to "culture" (and what exactly do we mean by that term; and, again, on both local and global scales)?  What values do rivers impose on us, or rather, what might we learn from rivers and river cultures about how we ought to live? 
+
+Second, this course is an engagement with an emergent set of practices and theories around experiential education. What can we learn from mixing our reading and writing with "embodied practices" -- that is, with practical engagements that bring us into close contact with river waters? How do experiences of paddling in, walking along, and even sleeping beside rivers transform and deepen our understanding of them? In this semester we explore these questions primarily through a weekend-long "immersive educational experience" (IEE) which takes place outside of our regular class meetings (next semester we'll do two more). During this weekend -- "Encountering the Madawaska" -- we'll discuss the history of North Ontario rivers, while learning practical canoe skills with the assistance of professional guides. We'll finish the weekend with a trip down one of Ontario's classic whitewater waterways. This excursion is not mandatory, but it is perhaps the most exciting opportunity that the course offers, and you are strongly encouraged to take part if at all possible.  The IEE will contribute to your final mark; students who are unable to participate will be required to complete an alternative assignment.
+
+Weekly classroom session follow a mixed lecture-discussion format; an initial lecture will generally precede a class discussion about the readings and, in some cases, auxiliary topics. The IEE will involve substantial physical activity but also class discussions and informal lectures.  
+
+
+
+* Objectives
+
+- Learn how rivers are defined and classified by natural and social scientists
+- Become conversant with the main social and cultural questions surrounding the study of rivers
+- Understand the role of rivers in water rights and water justice issues in Canada today, including the role of water in Indigenous rights movements
+- Develop an ethical framework for thinking about water and rivers
+- Experiment with immersive experiential education
+- Develop a habit of contemplation and inquiry into your own role in your education
+
+
+* Academic Integrity
+In keeping with the University’s policy toward plagiarism and cheating, academic misconduct in this course will be taken seriously and will result in disciplinary action (see the [[http://www.utoronto.ca/govcncl/pap/policies/studentc.html][Code of Student Conduct]] and [[http://www.utoronto.ca/govencl/pap/policies/behaveac.htm][Code of Behavior on Academic Matters]] for what counts as an offence). In essence, to take credit in any way for work that is not your own without acknowledging the source(s) counts as plagiarism and cheating. If you are still unsure as to what counts as plagiarism and also want to know specific ways to avoid it, you should [[http://www.utoronto.ca/writing/plagsep.html. ][study this page.]]
+* Accessibility 
+
+Students with diverse learning styles and needs are welcome in this course. In particular, if you have a disability or health consideration that may require accommodations, please feel free to approach me and/or the Accessibility Services Office as soon as possible. The Accessibility Services staff are available by appointment to assess specific needs, provide referrals and arrange appropriate accommodations. The sooner you let them and me know your needs, the quicker we can assist you in achieving your learning goals in this course. All of the above applies with redoubled urgency to our proposed class trip to the Madawaska River. 
+
+* ACTION Course Requirements and Grading
+Course assignments are described in detail in the [[../assignment/][Assignments]] section of the website (though details may not all be available on the first day of class). They consist of the following:
+
+- *Class Participation:* this is a vital part of our small seminar; please see the [[./assignment/participation/][Participation web page]] for details.
+- *Risk Assessment/Learning Objectives:* A short, formal assignment in advance of "Encountering the Madawaska".
+- *Encountering the Madawaska:* In some ways, this assignment is the heart of the class. We will spend two full days in an outdoor environment learning whitewater canoeing skills and traversing rapids on the Madawaska River, a tributary of the Ottawa in Eastern Ontario. While there, we will also hold seminar sessions, cook and eat together, and engage in all the normal practices of a camping excursion.  After the event, you'll be asked to complete a short written assignment.  See the [[../assignment/madawaska/][web page for more details]]. Students who are unable to attend will be asked to complete an alternative assignment. 
+- *Response Papers:* Three short (3-4 page) response papers, worth 15% each. 
+
+| Assignment (Word Count)                     | Percentage | Due Date         |
+|---------------------------------------------+------------+------------------|
+| Risk Assessment/Learning Objectives         |          5 | <2017-10-02 Mon> |
+| Encountering the Madawaska (or Alternative) |         30 | <2017-10-16 Mon> |
+| Response Paper 1                            |         15 | <2017-10-23 Mon> |
+| Response Paper 2                            |         15 | <2017-11-06 Mon> |
+| Response Paper 3                            |         15 | <2017-12-07 Thu> |
+| Participation                               |         20 | Ongoing          |
+|---------------------------------------------+------------+------------------|
+| Total                                       |        100 |                  |
+#+TBLFM: @>$2=vsum(@I..@II)
+
+* Texts
+- Rivers: A very short Introduction (/RAVSI/)
+- The Organic Machine (/Organic Machine/)
+
+* Course Outline
+
+** Week {{{n}}} (<2017-09-11 Mon>):Intro. On Discussion. 
+** Week {{{n}}} ({{{ts}}}): What is a River? 
+- /RAVSI/ [[http://www.veryshortintroductions.com.myaccess.library.utoronto.ca/view/10.1093/actrade/9780199588671.001.0001/actrade-9780199588671-miscMatter-10][Introduction]] and [[http://www.veryshortintroductions.com.myaccess.library.utoronto.ca/view/10.1093/actrade/9780199588671.001.0001/actrade-9780199588671-chapter-1][ch. 1]]
+** Week {{{n}}} ({{{ts}}}): Rivers in the Broad Sweep of Time
+- [[http://www.veryshortintroductions.com.myaccess.library.utoronto.ca/view/10.1093/actrade/9780199588671.001.0001/actrade-9780199588671-chapter-3][/RAVSI/ ch. 3]]
+- Brown, Terry J. “[[http://journals.sagepub.com.myaccess.library.utoronto.ca/doi/abs/10.1177/105382599802100203][Risk Management: Research Needs and Status Report]].” Journal of Experiential Education 21, no. 2 (September 1, 1998): 71–85.
+
+** Week {{{n}}} ({{{ts}}}): The St. Lawrence River Basin: Introduction + Trip Prep
+- Thorp, James H., Gary A. Lamberti, and Andrew F. Casper. “[[http://www.sciencedirect.com.myaccess.library.utoronto.ca/science/article/pii/B9780120882533500250][St. Lawrence River Basin]].” In /Rivers of North America/, edited by Arthur C. Benke and Colbert E. Cushing, 982–1028. Burlington: Academic Press, 2005.
+
+** Week {{{n}}} ({{{ts}}}): NO CLASS ON THANKSGIVING 
+*(but CLASS TRIP takes place this weekend!)*
+** Week {{{n}}} ({{{ts}}}): Sacred Rivers
+- [[http://www.veryshortintroductions.com.myaccess.library.utoronto.ca/view/10.1093/actrade/9780199588671.001.0001/actrade-9780199588671-chapter-2][/RAVSI/ ch. 2 ]]
+- Hallenbeck, Jessica. “[[http://www.tandfonline.com.myaccess.library.utoronto.ca/doi/abs/10.1080/2201473X.2014.1000909][Returning to the Water to Enact a Treaty Relationship: The Two Row Wampum Renewal Campaign]].” Settler Colonial Studies 5, no. 4 (October 2, 2015): 350–62. 
+
+** Week {{{n}}} ({{{ts}}}): Rivers, Work and Energy (Columbia Pt. 1)
+- /Organic Machine/ Introduction, Ch. 1-2.
+** Week {{{n}}} ({{{ts}}}): Rivers Making Place (Columbia Pt. 2)
+- /Organic Machine/ Ch. 3-4. 
+** Week {{{n}}} ({{{ts}}}): NO CLASS DURING READING WEEK
+** ACTION Week {{{n}}} ({{{ts}}}): Indigenous Water Histories and Water Movements
+- Matsui, Kenichi, Kate Berry, Teresa Cavazos Cohn, and Sue Jackson. “[[http://link.springer.com.myaccess.library.utoronto.ca/article/10.1007/s12685-016-0184-8][Indigenous Water Histories I: Recovering Oral Histories, Interpreting Indigenous Perspectives, and Revealing Hybrid Waterscapes]].” Water History 8, no. 4 (December 1, 2016): 357–63.
+** Week {{{n}}} ({{{ts}}}): Hydro Power and the end of Wild Water in Canada
+- Martin-Nielsen, Janet. “South over the Wires: Hydro-Electricity Exports from Canada, 1900–1925.” Water History 1, no. 2 (December 1, 2009): 109. doi:10.1007/s12685-009-0011-6.
+- Carlson, Hans M. "Flooding the Garden" in /Home Is the Hunter: The James Bay Cree and Their Land./ Nature, History, Society. Vancouver: UBC Press, 2008.
+
+** Week {{{n}}} ({{{ts}}}): Communities, States, and Water Governance
+- Zwarteveen, Margreet Z., and Rutgerd Boelens. “[[http://www.tandfonline.com.myaccess.library.utoronto.ca/doi/pdf/10.1080/02508060.2014.891168][Defining, Researching and Struggling for Water Justice: Some Conceptual Building Blocks for Research and Action]].” Water International 39, no. 2 (February 23, 2014): 143–58. 
+- Perreault, Tom. “[[http://www.tandfonline.com.myaccess.library.utoronto.ca/doi/pdf/10.1080/02508060.2014.891168][What Kind of Governance for What Kind of Equity? Towards a Theorization of Justice in Water Governance]].” Water International 39, no. 2 (February 23, 2014): 233–45. 
+
+** Week {{{n}}} ({{{ts}}}): Rivers, Personhood, and Ecological Ethics
+- Youatt, Rafi. “[[https://academic-oup-com.myaccess.library.utoronto.ca/ips/article/doi/10.1093/ips/olw032/3038196/Personhood-and-the-Rights-of-Nature-The-New][Personhood and the Rights of Nature: The New Subjects of Contemporary Earth Politics]].” International Political Sociology 11, no. 1 (2017): 39–54. .
+- Smith, James L. “[[http://onlinelibrary.wiley.com.myaccess.library.utoronto.ca/doi/10.1111/apv.12140/full][I, River?: New Materialism, Riparian Non-Human Agency and the Scale of Democratic Reform]].” Asia Pacific Viewpoint 58, no. 1 (2017): 99–111.
+
+
