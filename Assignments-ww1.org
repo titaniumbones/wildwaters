@@ -1,0 +1,111 @@
+#+CATEGORY: assignments
+#+TAGS: 
+#+DESCRIPTION: 
+#+TITLE: Assignments
+#+PROPERTY: PARENT 16
+#+STARTUP: customtime
+#+HUGO_BASE_DIR: ./ww-site/
+#+HUGO_SECTION: assignment
+#+HUGO_STATIC_IMAGES: images
+#+HUGO_MENU: :menu main :parent Assignments
+
+* Overview
+:PROPERTIES:
+:ID:       o2b:3fff9aa9-d319-471d-bb29-17f04e617463
+:POSTID:   16
+:EXPORT_FILE_NAME: overview
+:EXPORT_HUGO_MENU_OVERRIDE: :weight 10
+:END:
+
+Assignments for RLG239 are linked here as I put them up on the site. See the [[../../article/wildwater-1-syllabus/][Syllabus]] for an overview of assignments and their values.
+
+* Participation
+:PROPERTIES:
+:EXPORT_FILE_NAME: participation
+:EXPORT_HUGO_MENU_OVERRIDE: :weight 20
+:EXPORT_DATE: 2017-09-06
+:END:
+Your participation mark is substantial (20%) and reflects the unusual nature of the seminar. The mark has two components:
+- Each week at the start of class, you will hand in a piece of paper with a short quote from the readings and an accompanying question about the text. The question may (or may not) be used to as a discussion prompt for the class.
+- During course discussions, you will be expected to participate actively. This means listening carefully to your classmates; responding thoughtfully to their comments; posing questions of your own, while being careful not to dominate the conversation unnecessarily.
+
+Both of these tasks require you to do the reading and pay attention to lecture, and to do *critically* -- that is, with attention both to what is being said and to what may be left out or misrepresented.  
+
+** How to create a discussion question
+
+Formulate a good discussion question that will be interesting to other
+students and call for some thinking about the reading. Try also to find
+a question that genuinely interests you.
+
+The following are characteristics of a good discussion question:
+
+1. A discussion question cannot be answered yes or no.
+2. A discussion question cannot be answered with a fact.
+3. A discussion question should not require a personal opinion outside
+   the reading.
+4. A discussion questions should redirect the discussion to the reading
+   itself.
+5. A discussion question should ask the discussants to explain the
+   author's meaning and not simply quote the author or authors.
+6. A discussion question should indicate that the person who posed the
+   question is actually curious about the answer.
+7. A discussion question should be answerable with evidence from the
+   reading and common information that has preceded it in the course.
+8. A discussion question should permit several interpretations. In other
+   words, it should be rich enough to offer several possible directions
+   in its answers.
+
+
+** ACTION COMMENT Resources
+add a list of resources here. 
+
+* Risk Assessment
+:PROPERTIES:
+:EXPORT_FILE_NAME: risk-assessment
+:EXPORT_HUGO_MENU_OVERRIDE: :weight 15
+:END:
+
+This assignment asks you to think about the risks and learning outcomes associated with our upcoming excursion.  Details Coming Soon
+** COMMENT content
+
+* Encountering the Madawaska
+:PROPERTIES:
+:EXPORT_FILE_NAME: encountering-the-mad
+:EXPORT_HUGO_MENU_OVERRIDE: :weight 20
+:END:
+This assignment involves participation in and reflection on an excursion to the Madawaska River, where we will learn about the history and geography of the region while camping on the river bank and taking whate water skills instruction. Trip is currently scheduled for Oct. 7 and 8 though this may change depending on student and skills instructor availability.  Details Coming Soon
+** COMMENT content
+
+
+* COMMENT IEE2: Encountering our Backyard
+
+* Response Paper 1
+:PROPERTIES:
+:EXPORT_FILE_NAME: response-paper-1
+:EXPORT_HUGO_MENU_OVERRIDE: :weight 20
+:END:
+A paper of 3-4 pages responding to course readings. Details Coming Soon
+** COMMENT content
+
+
+
+* Response Paper 2
+:PROPERTIES:
+:EXPORT_FILE_NAME: response-paper-2
+:EXPORT_HUGO_MENU_OVERRIDE: :weight 20
+:END:
+A paper of 3-4 pages responding to course readings. Details Coming Soon
+*** COMMENT content
+
+The midterm paper is a short essay of 3-5 pages, combining  
+
+
+* Response Paper 3
+:PROPERTIES:
+:EXPORT_FILE_NAME: response-paper-3
+:EXPORT_HUGO_MENU_OVERRIDE: :weight 20
+:END:
+A paper of 3-4 pages responding to course readings. Details Coming Soon
+** COMMENT content
+
+
