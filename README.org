@@ -1,3 +1,4 @@
+https://licensebuttons.net/l/by-sa/4.0/80x15.png [[./LICENSE.md][License: Creative Commons BY-SA-ND 4.0]]
 * About This Repository
 This repository houses the source documents for the course materials I use in RLG239, "[[http://wildwater.hackinghistory.ca][Wild Waters]]", a special topics class in the [[http://religion.utoronto.ca/][Department for the Study of Religion]] at the University of Toronto.  The class is one of several pilots in a project co-ordinated by Prof. Frances Garrett and me, "[[http://outdoors.hackinghistory.ca/][U of T Outdoors]]", and is supported by an [[http://www.artsci.utoronto.ca/faculty-staff/teacher-info/atlas/index_html][ATLAS Grant]] from the Faculty of Arts and Sciences.  
 

@@ -42,12 +42,12 @@ In keeping with the University’s policy toward plagiarism and cheating, academ
 
 Students with diverse learning styles and needs are welcome in this course. In particular, if you have a disability or health consideration that may require accommodations, please feel free to approach me and/or the Accessibility Services Office as soon as possible. The Accessibility Services staff are available by appointment to assess specific needs, provide referrals and arrange appropriate accommodations. The sooner you let them and me know your needs, the quicker we can assist you in achieving your learning goals in this course. All of the above applies with redoubled urgency to our proposed class trip to the Madawaska River. 
 
-* ACTION Course Requirements and Grading
+* Course Requirements and Grading
 Course assignments are described in detail in the [[../assignment/][Assignments]] section of the website (though details may not all be available on the first day of class). They consist of the following:
 
-- *Class Participation:* this is a vital part of our small seminar; please see the [[./assignment/participation/][Participation web page]] for details.
+- *Class Participation:* this is a vital part of our small seminar; please see the [[../../assignment/participation/][Participation web page]] for details.
 - *Risk Assessment/Learning Objectives:* A short, formal assignment in advance of "Encountering the Madawaska".
-- *Encountering the Madawaska:* In some ways, this assignment is the heart of the class. We will spend two full days in an outdoor environment learning whitewater canoeing skills and traversing rapids on the Madawaska River, a tributary of the Ottawa in Eastern Ontario. While there, we will also hold seminar sessions, cook and eat together, and engage in all the normal practices of a camping excursion.  After the event, you'll be asked to complete a short written assignment.  See the [[../assignment/madawaska/][web page for more details]]. Students who are unable to attend will be asked to complete an alternative assignment. 
+- *Encountering the Madawaska:* In some ways, this assignment is the heart of the class. We will spend two full days in an outdoor environment learning whitewater canoeing skills and traversing rapids on the Madawaska River, a tributary of the Ottawa in Eastern Ontario. While there, we will also hold seminar sessions, cook and eat together, and engage in all the normal practices of a camping excursion.  After the event, you'll be asked to complete a short written assignment.  See the [[../../assignment/madawaska/][web page for more details]]. Students who are unable to attend will be asked to complete an alternative assignment. 
 - *Response Papers:* Three short (3-4 page) response papers, worth 15% each. 
 
 | Assignment (Word Count)                     | Percentage | Due Date         |
@@ -72,6 +72,9 @@ Course assignments are described in detail in the [[../assignment/][Assignments]
 ** Week {{{n}}} ({{{ts}}}): What is a River? 
 - /RAVSI/ [[http://www.veryshortintroductions.com.myaccess.library.utoronto.ca/view/10.1093/actrade/9780199588671.001.0001/actrade-9780199588671-miscMatter-10][Introduction]] and [[http://www.veryshortintroductions.com.myaccess.library.utoronto.ca/view/10.1093/actrade/9780199588671.001.0001/actrade-9780199588671-chapter-1][ch. 1]]
 ** Week {{{n}}} ({{{ts}}}): Rivers in the Broad Sweep of Time
+:PROPERTIES:
+:ID:       e44c9873-f634-4c9e-8ab1-c471d73d213c
+:END:
 - [[http://www.veryshortintroductions.com.myaccess.library.utoronto.ca/view/10.1093/actrade/9780199588671.001.0001/actrade-9780199588671-chapter-3][/RAVSI/ ch. 3]]
 - Brown, Terry J. “[[http://journals.sagepub.com.myaccess.library.utoronto.ca/doi/abs/10.1177/105382599802100203][Risk Management: Research Needs and Status Report]].” Journal of Experiential Education 21, no. 2 (September 1, 1998): 71–85.
 
@@ -79,7 +82,7 @@ Course assignments are described in detail in the [[../assignment/][Assignments]
 - Thorp, James H., Gary A. Lamberti, and Andrew F. Casper. “[[http://www.sciencedirect.com.myaccess.library.utoronto.ca/science/article/pii/B9780120882533500250][St. Lawrence River Basin]].” In /Rivers of North America/, edited by Arthur C. Benke and Colbert E. Cushing, 982–1028. Burlington: Academic Press, 2005.
 
 ** Week {{{n}}} ({{{ts}}}): NO CLASS ON THANKSGIVING 
-*(but CLASS TRIP takes place this weekend!)*
+*(but CLASS TRIP takes place this weekend! [[/docs/madawaska-package.pdf][Please see the trip documents packet for more info.]])*
 ** Week {{{n}}} ({{{ts}}}): Sacred Rivers
 - [[http://www.veryshortintroductions.com.myaccess.library.utoronto.ca/view/10.1093/actrade/9780199588671.001.0001/actrade-9780199588671-chapter-2][/RAVSI/ ch. 2 ]]
 - Hallenbeck, Jessica. “[[http://www.tandfonline.com.myaccess.library.utoronto.ca/doi/abs/10.1080/2201473X.2014.1000909][Returning to the Water to Enact a Treaty Relationship: The Two Row Wampum Renewal Campaign]].” Settler Colonial Studies 5, no. 4 (October 2, 2015): 350–62. 
