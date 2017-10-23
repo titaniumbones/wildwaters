@@ -53,6 +53,7 @@ add a list of resources here.
 :PROPERTIES:
 :EXPORT_FILE_NAME: risk-assessment
 :EXPORT_HUGO_MENU_OVERRIDE: :weight 15
+:EXPORT_DATE: 2017-09-30
 :END:
 This Pass/Fail assignment is worth 5% of your final grade, and is due <2017-10-02 Mon>. 
 
@@ -74,6 +75,7 @@ Please submit your work via [[https://www.dropbox.com/request/48XaFeeeaZHAeLSUOr
 :PROPERTIES:
 :EXPORT_FILE_NAME: encountering-the-mad
 :EXPORT_HUGO_MENU_OVERRIDE: :weight 20
+:EXPORT_DATE: 2017-09-30
 :END:
 
 *Due Date:* Paper <2017-10-16 Mon>; Participation before, during, and after trip
@@ -140,19 +142,128 @@ Please submit your work [[https://www.dropbox.com/request/UtRTRypzrYGFU7D8gAEg][
 :PROPERTIES:
 :EXPORT_FILE_NAME: response-paper-1
 :EXPORT_HUGO_MENU_OVERRIDE: :weight 20
+:EXPORT_DATE: 2017-10-18
 :END:
-A paper of 3-4 pages responding to course readings. Details Coming Soon
-** COMMENT content
 
+*Due Date Updated: Now Due Monday, Oct. 30*
+** General Guidelines
+By "Response Paper", I mean a brief argumentative essay responding directly to issues raised by course readings. Usually response papers work best when framed either as a disagreement with, or an expansion of, the original author's ideas.  So, for instance, here are two ways one might respond to Plato's [[https://faculty.washington.edu/smcohen/320/cave.htm][Allegory of the Cave]]: 
 
+#+BEGIN_QUOTE
+While Plato argues convincingly that we have no direct access to the material world, his cave metaphor ultimately fails. In particular, I will argue that there is simply no way that the captive observers could be adequately fed without coming to understand that the world has 3 dimensions and that they are imprisoned within it. This has important consequences for any version of Idealism that seeks to ground itself in Plato's work.
+#+END_QUOTE
+
+or
+
+#+BEGIN_QUOTE
+One puzzling aspect of Plato's remarkably successful and almost wholly convincing account of the Cave has to do with the manner in which a captive observer would escape and bring the news of an extenral world to his or her fellow prisoners. In this paper, drawing on the work of David Copperfield and Harry Houdini, I will outline the precise steps required to effect such an escape. I'll show how a more precise understanding radically deepens our understanding of the human predicament and has broad consequences for a theory of underlying reality and the relationship between the world of Forms and the world of mere phenomena.
+#+END_QUOTE
+
+A response paper has several important components:
+- Understanding of the Text :: The paper should show familiarity with the source text and present a reasonable interpretations of one or more of its arguments
+- Point of Departure :: Your paper should make it quite clear where your own thinking departs from that of the original author
+- Compelling Argument :: Your main points should be well-supported with evidence from the text and elsewhere, and with argumentative tissue that connects the evidence to your claims.
+
+It's also important to attend to spelling, grammar, etc., but these are less crucial than the above.
+
+** Questions
+
+*** Option A
+In the abstract to "Returning to the water...", Jessica Hallenbeck argues:
+#+BEGIN_QUOTE
+The renewal campaign is one example of how water can form the basis of decolonial political practice, revealing colonial understandings of territory, law, and entitlement.
+#+END_QUOTE
+To what extent do you agree with this claim? Could Hallenbeck have used her experience more persuasively to make this argument -- or can you add something to it from your own experience -- or might a different claim have been better supported by the evidence she presents? 
+
+*** Option B
+Hallenbeck also states that:
+#+BEGIN_QUOTE
+The environmental destruction of Onondaga Lake is a form of settler-colonial sexual violence.
+Andrea Smith argues that sexual violence is ‘a wide range of strategies designed not only to
+destroy peoples but to destroy their sense of being as people.’ Lubicon Cree environmental acti-
+vist and scholar Melina Laboucan-Massimo, in reference to the murder of her sister, writes that
+the rape of mother earth and violence against women ‘are inextricably linked.’  A recent /Settler Colonial Studies/ study conducted in British Columbia, Canada, found a connection between extractive industries and domestic abuse.  The environmental destruction of land and water and the removal of Indigenous Peoples from their traditional territories are forms of gender violence. (352-53)
+#+END_QUOTE
+Respond to this claim with further evidence, informed critique, or both. 
+
+*** Option C
+Finally, Hallenbeck also writes:
+#+BEGIN_QUOTE
+The Two Row Wampum enactment was about connecting through water to practice and embody the relationships described in the Two Row Wampum treaty. It was about creating the conditions for radical transformation.... The enactment and the renewal campaign laid out a path to healing relationships. (357)
+#+END_QUOTE
+Does Hallenbeck's assessment seem accurate to you? If so, why? If not, how would you amend this claim to accord with the evidence presented?
 
 * Response Paper 2
 :PROPERTIES:
 :EXPORT_FILE_NAME: response-paper-2
 :EXPORT_HUGO_MENU_OVERRIDE: :weight 20
+:EXPORT_DATE: 2017-10-18
 :END:
-A paper of 3-4 pages responding to course readings. Details Coming Soon
-*** COMMENT content
+** General Guidelines
+By "Response Paper", I mean a brief argumentative essay responding directly to issues raised by course readings. Usually response papers work best when framed either as a disagreement with, or an expansion of, the original author's ideas.  So, for instance, here are two ways one might respond to Plato's [[https://faculty.washington.edu/smcohen/320/cave.htm][Allegory of the Cave]]: 
+
+#+BEGIN_QUOTE
+While Plato argues convincingly that we have no direct access to the material world, his cave metaphor ultimately fails. In particular, I will argue that there is simply no way that the captive observers could be adequately fed without coming to understand that the world has 3 dimensions and that they are imprisoned within it. This has important consequences for any version of Idealism that seeks to ground itself in Plato's work.
+#+END_QUOTE
+
+or
+
+#+BEGIN_QUOTE
+One puzzling aspect of Plato's remarkably successful and almost wholly convincing account of the Cave has to do with the manner in which a captive observer would escape and bring the news of an extenral world to his or her fellow prisoners. In this paper, drawing on the work of David Copperfield and Harry Houdini, I will outline the precise steps required to effect such an escape. I'll show how a more precise understanding radically deepens our understanding of the human predicament and has broad consequences for a theory of underlying reality and the relationship between the world of Forms and the world of mere phenomena.
+#+END_QUOTE
+
+A response paper has several important components:
+- Understanding of the Text :: The paper should show familiarity with the source text and present a reasonable interpretations of one or more of its arguments
+- Point of Departure :: Your paper should make it quite clear where your own thinking departs from that of the original author
+- Compelling Argument :: Your main points should be well-supported with evidence from the text and elsewhere, and with argumentative tissue that connects the evidence to your claims.
+
+It's also important to attend to spelling, grammar, etc., but these are less crucial than the above.
+
+-------
+** Questions
+*** Question {{{n}}}
+#+BEGIN_QUOTE
+Emerson's vision of the machine as a force of nature found its fullest expression as part of the old romance of energy in Western society, a dream of liberation from labor, an end to social conflict and environmental degradation through the harnessing of nature's power to human purposes.... [T]hese dreams of energy involved the river as a scene of social struggle. ... Today with the Columbia dammed, those dreams seem collective self-deceptions. But we have really not so much given up our energy dreams as transferred them to other sources: to solar power or to nuclear fusion, clean and unlimited energy that will supposedly save us and our world yet. (48)
+#+END_QUOTE
+What exactly is the "Emersonian vision" to which White refers? Do we really still live within its confines? For good or for ill?
+
+
+*** Question {{{n}}}
+#+BEGIN_QUOTE
+The Columbia Basin Project did not so much eliminate the punishing tasks of rural life as redistribute them. By 1957, 97 percent of the farms on the BPA service area had electricity. Electricity reduced the labor of farm owners and their families, but on the irrigated landscape it created, migrant workers took over hard and often dangerous work. Dams had created the opportunity for new, electrified family farms,  but Mexican and Mexican-American seasonal workers labored in their fields for wages. They often lived in farm labor camps that made unelectrified farmhouses seem bastions of comfort. (71)
+#+END_QUOTE
+White identifies the situation of farm workers as ironic, and specifically, as the betrayal of a promise to "remedy" "injustices". Explain what the means, whether you agree with him, and what kind of conditions would be required to effectively enhance justice and equality via electrical power.
+
+*** Question {{{n}}}
+#+BEGIN_QUOTE
+...[T]the Columbia River Indians, having validated their rights to catch a fish that has been at the center of their common life for millennia, find the fish gone. They have demonstrated their new power and standing by helping to force the issue on the decline of the issue. They have the legal standing to demand that the Columbia's salmon be saved. They are left to savor the bitterness of a promise broken even in its keeping. Saving the salmon means, at least for now, barring most fishing on the river. Half of nothing is nothing.
+#+END_QUOTE
+Explain in more detail the nature of this double-bind or bitter irony in which Native inhabitants of the Columbia River Basin find themselves. As above: what would have to be different in order for this situation to change? 
+
+
+*** Question {{{n}}}
+#+BEGIN_QUOTE
+There is no easy way to disentangle the natural and cultural here.
+
+What is real is the mixture, and we seem unable to come to terms with this even though we have created it. Mumford's jeremiad against the megamachine recognizes that we treat nature as if it were literally a machine that can be disassembled and redesigned largely at will, as if its various parts can be assigned different functions with only a technical relation to other parts and functions. But the Columbia is not just a machine. It is an /organic/ machine. Our tendency to break it into parts does not work. For no matter how much we have created many of its spaces and altered its behavior, it is still tied to larger organic cycles beyond our control. (111-12)
+#+END_QUOTE
+What do you think of White's "organic machine" concept? How well does it describe the Columbia? How broadly applicable is it to other phenomena? Is the right that "there is no easy way to disentangle the natural and cultural here"?
+
+** COMMENT content
+#+BEGIN_QUOTE
+"In thinking of themselves both as children of nature (nature's nation) and as children of the machine (masters of American know-how) Americans were Emersonians.
+
+
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+But historians know that Hardin's odel of the commons is an invention. No such simple commons has ever operated. It never existed on the Columbia. In historical practice users of common resources set up rules and limits; they created customs; they limited access. Fishermen made the actual Columbia a ocmpliated patchwork of competing cliams an dpractices. Indians possessed treaty rights. Gillnetters controlled access to particular drifts: stretches of the river where they cast their nets and floated downstream. Fixed-gear men with their pound nets commandeered space o n the river. Their very equipment fenced out others. Fish wheels tool over old Indian fishing sites and pushed aside the Indians, despite the treaty riths which promised them a particular share of the commons.  
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Only the new world it would help produce dwarfed Grnad Coulee. Stuart Chase, writing in /Fortune/ in 1933, declared that electric power meant a new kind of civilization....
+TThe new continental economy would be 'like one unified machine, one organic whole.' in this tendency to mix mahcine, nature, and society i to a single metaphorical whole lay a vision of an Emersonian world." (58)
+#+END_QUOTE
 
 The midterm paper is a short essay of 3-5 pages, combining  
 
@@ -161,8 +272,7 @@ The midterm paper is a short essay of 3-5 pages, combining
 :PROPERTIES:
 :EXPORT_FILE_NAME: response-paper-3
 :EXPORT_HUGO_MENU_OVERRIDE: :weight 20
+:EXPORT_DATE: 2017-10-18
 :END:
 A paper of 3-4 pages responding to course readings. Details Coming Soon
 ** COMMENT content
-
-
