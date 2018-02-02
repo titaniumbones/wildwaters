@@ -50,16 +50,17 @@ Course assignments are described in detail in the [[../assignment/][Assignments]
 - *Encountering the Madawaska:* In some ways, this assignment is the heart of the class. We will spend two full days in an outdoor environment learning whitewater canoeing skills and traversing rapids on the Madawaska River, a tributary of the Ottawa in Eastern Ontario. While there, we will also hold seminar sessions, cook and eat together, and engage in all the normal practices of a camping excursion.  After the event, you'll be asked to complete a short written assignment.  See the [[../../assignment/madawaska/][web page for more details]]. Students who are unable to attend will be asked to complete an alternative assignment. 
 - *Response Papers:* Three short (3-4 page) response papers, worth 15% each. 
 
-| Assignment (Word Count)                     | Percentage | Due Date         |
-|---------------------------------------------+------------+------------------|
-| Risk Assessment/Learning Objectives         |          5 | <2017-10-02 Mon> |
-| Encountering the Madawaska (or Alternative) |         30 | <2017-10-16 Mon> |
-| Response Paper 1                            |         15 | <2017-10-23 Mon> |
-| Response Paper 2                            |         15 | <2017-11-06 Mon> |
-| Response Paper 3                            |         15 | <2017-12-07 Thu> |
-| Participation                               |         20 | Ongoing          |
-|---------------------------------------------+------------+------------------|
-| Total                                       |        100 |                  |
+*Modified after Class discussion*
+| Assignment (Word Count)                     | Percentage | Due Date |
+|---------------------------------------------+------------+----------|
+| Risk Assessment/Learning Objectives         |         10 | <2017-10-02 Mon>  |
+| Encountering the Madawaska (or Alternative) |      28.75 | <2017-10-16 Mon>  |
+| Response Paper 1                            |      13.75 | <2017-10-23 Mon>  |
+| Response Paper 2                            |      13.75 | <2017-11-06 Mon>  |
+| Response Paper 3                            |      13.75 | <2017-12-07 Thu>  |
+| Participation                               |         20 | Ongoing  |
+|---------------------------------------------+------------+----------|
+| Total                                       |        100 |          |
 #+TBLFM: @>$2=vsum(@I..@II)
 
 * Texts
@@ -93,14 +94,18 @@ Course assignments are described in detail in the [[../assignment/][Assignments]
 - /Organic Machine/ Ch. 3-4. 
 ** Week {{{n}}} ({{{ts}}}): NO CLASS DURING READING WEEK
 ** ACTION Week {{{n}}} ({{{ts}}}): Indigenous Water Histories and Water Movements
-- Matsui, Kenichi, Kate Berry, Teresa Cavazos Cohn, and Sue Jackson. “[[http://link.springer.com.myaccess.library.utoronto.ca/article/10.1007/s12685-016-0184-8][Indigenous Water Histories I: Recovering Oral Histories, Interpreting Indigenous Perspectives, and Revealing Hybrid Waterscapes]].” Water History 8, no. 4 (December 1, 2016): 357–63.
+- Matsui, Kenichi, Kate Berry, Teresa Cavazos Cohn, and Sue Jackson. “[[http://link.springer.com.myaccess.library.utoronto.ca/article/10.1007/s12685-016-0184-8][Indigenous Water Histories I: Recovering Oral Histories, Interpreting Indigenous Perspectives, and Revealing Hybrid Waterscapes]].” /Water History/ 8, no. 4 (December 1, 2016): 357–63.
+- Gagnon, Valoree S. “[[https://link-springer-com.myaccess.library.utoronto.ca/article/10.1007/s12685-016-0185-7][Ojibwe Gichigami (“Ojibwa’s Great Sea”): An Intersecting History of Treaty Rights, Tribal Fish Harvesting, and Toxic Risk in Keweenaw Bay, United States]].” /Water History/ 8, no. 4 (December 1, 2016): 365–84.
+- Ballantine, Amory. “[[https://link-springer-com.myaccess.library.utoronto.ca/article/10.1007/s12685-016-0179-5][The River Mouth Speaks: Water Quality as Storyteller in Decolonization of the Port of Tacoma]].” /Water History/ 9, no. 1 (March 1, 2017): 45–66. doi:10.1007/s12685-016-0179-5.
+- Ramos, Raquel Padilla, and José Luis Moctezuma Zamarrón. “[[https://link-springer-com.myaccess.library.utoronto.ca/article/10.1007/s12685-017-0194-1][The Yaquis, a Historical Struggle for Water]].” /Water History/ 9, no. 1 (March 1, 2017): 29–43. doi:10.1007/s12685-017-0194-1.
+
 ** Week {{{n}}} ({{{ts}}}): Hydro Power and the end of Wild Water in Canada
-- Martin-Nielsen, Janet. “South over the Wires: Hydro-Electricity Exports from Canada, 1900–1925.” Water History 1, no. 2 (December 1, 2009): 109. doi:10.1007/s12685-009-0011-6.
+- Martin-Nielsen, Janet. “[[https://link.springer.com/article/10.1007/s12685-009-0011-6][South over the Wires: Hydro-Electricity Exports from Canada, 1900–1925]].” Water History 1, no. 2 (December 1, 2009): 109. doi:10.1007/s12685-009-0011-6.
 - Carlson, Hans M. "Flooding the Garden" in /Home Is the Hunter: The James Bay Cree and Their Land./ Nature, History, Society. Vancouver: UBC Press, 2008.
 
 ** Week {{{n}}} ({{{ts}}}): Communities, States, and Water Governance
 - Zwarteveen, Margreet Z., and Rutgerd Boelens. “[[http://www.tandfonline.com.myaccess.library.utoronto.ca/doi/pdf/10.1080/02508060.2014.891168][Defining, Researching and Struggling for Water Justice: Some Conceptual Building Blocks for Research and Action]].” Water International 39, no. 2 (February 23, 2014): 143–58. 
-- Perreault, Tom. “[[http://www.tandfonline.com.myaccess.library.utoronto.ca/doi/pdf/10.1080/02508060.2014.891168][What Kind of Governance for What Kind of Equity? Towards a Theorization of Justice in Water Governance]].” Water International 39, no. 2 (February 23, 2014): 233–45. 
+- Perreault, Tom. “[[https://journals-scholarsportal-info.myaccess.library.utoronto.ca/details/02508060/v39i0002/233_wkogfwtojiwg.xml][What Kind of Governance for What Kind of Equity? Towards a Theorization of Justice in Water Governance]].” Water International 39, no. 2 (February 23, 2014): 233–45. 
 
 ** Week {{{n}}} ({{{ts}}}): Rivers, Personhood, and Ecological Ethics
 - Youatt, Rafi. “[[https://academic-oup-com.myaccess.library.utoronto.ca/ips/article/doi/10.1093/ips/olw032/3038196/Personhood-and-the-Rights-of-Nature-The-New][Personhood and the Rights of Nature: The New Subjects of Contemporary Earth Politics]].” International Political Sociology 11, no. 1 (2017): 39–54. .

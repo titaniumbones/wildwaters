@@ -274,5 +274,49 @@ The midterm paper is a short essay of 3-5 pages, combining
 :EXPORT_HUGO_MENU_OVERRIDE: :weight 20
 :EXPORT_DATE: 2017-10-18
 :END:
-A paper of 3-4 pages responding to course readings. Details Coming Soon
+*Due date: Dec. 7*
+** General Guidelines
+By "Response Paper", I mean a brief argumentative essay responding directly to issues raised by course readings. Usually response papers work best when framed either as a disagreement with, or an expansion of, the original author's ideas.  So, for instance, here are two ways one might respond to Plato's [[https://faculty.washington.edu/smcohen/320/cave.htm][Allegory of the Cave]]: 
+
+#+BEGIN_QUOTE
+While Plato argues convincingly that we have no direct access to the material world, his cave metaphor ultimately fails. In particular, I will argue that there is simply no way that the captive observers could be adequately fed without coming to understand that the world has 3 dimensions and that they are imprisoned within it. This has important consequences for any version of Idealism that seeks to ground itself in Plato's work.
+#+END_QUOTE
+
+or
+
+#+BEGIN_QUOTE
+One puzzling aspect of Plato's remarkably successful and almost wholly convincing account of the Cave has to do with the manner in which a captive observer would escape and bring the news of an extenral world to his or her fellow prisoners. In this paper, drawing on the work of David Copperfield and Harry Houdini, I will outline the precise steps required to effect such an escape. I'll show how a more precise understanding radically deepens our understanding of the human predicament and has broad consequences for a theory of underlying reality and the relationship between the world of Forms and the world of mere phenomena.
+#+END_QUOTE
+
+A response paper has several important components:
+- Understanding of the Text :: The paper should show familiarity with the source text and present a reasonable interpretations of one or more of its arguments
+- Point of Departure :: Your paper should make it quite clear where your own thinking departs from that of the original author
+- Compelling Argument :: Your main points should be well-supported with evidence from the text and elsewhere, and with argumentative tissue that connects the evidence to your claims.
+
+It's also important to attend to spelling, grammar, etc., but these are less crucial than the above.
+** Questions
+*** Question {{{n(t)}}}
+Hans Carlson writes about the legal challenge to hydro-electric development in the James Bay region:
+#+BEGIN_QUOTE
+The James Bay hydroelectric development an the agreement that made it possible became a great challenge to a set of values that had grown around the northern environment over thousands of years and persist into the twenty-first century. (p.235)
+#+END_QUOTE
+What are the  "set of values" and the "challenge" Carlson refers to? Do you agree with this assessment? What relevance does this confrontation between values have for us today? 
+*** Question {{{n(t)}}}
+
+Tom Perrault argues:
+#+BEGIN_QUOTE
+Our forms of water governance must address the human right to water not as an end in
+itself but as a means to attaining the broader objective of a just society. Only by viewing
+water and society as simultaneously social and natural, and thoroughly political – as a
+densely woven hydro-socio-ecological fabric – can we address both ecological govern-
+ance and environmental justice. (p.243)
+#+END_QUOTE
+
+Are you convinced by this argument? What challenges, practical, theoretical, or both, does such a conception face? You should feel free to draw on insights from Zwarteveen &  Boelens in your paper. 
+*** Question {{{n(t)}}}
+Youatt and Smith both explore the complexities of recent political developments in which personhood had been ascribed to rivers and other natural features. Each of them raises substantive political and philosophical issues about these claims, often having to do with /what it means to be a person/, and /the granting of rights to non-humans/. Choose any major argument of either author, and do the following:
+- clearly articulate in your own words the argument and the kind of situation to which it is responding
+- clearly (again) describe one or more substantial conceptual difficulties faced by the argument
+- once again as clearly as possible, show how to overcome the conceptual difficulty, either by modifying the original rgument, or by showing some other way of overcoming the initial impression of difficulty
+
 ** COMMENT content
