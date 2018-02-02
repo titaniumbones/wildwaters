@@ -1,0 +1,404 @@
+#+CATEGORY: assignments
+#+TAGS: 
+#+DESCRIPTION: 
+#+TITLE: Assignments
+#+PROPERTY: PARENT 16
+#+STARTUP: customtime
+#+HUGO_BASE_DIR: ./ww-site/
+#+HUGO_SECTION: assignment
+#+HUGO_STATIC_IMAGES: images
+#+HUGO_MENU: :menu main :parent Assignments
+#+HUGO_AUTO_SET_LASTMOD: t
+
+* Overview
+:PROPERTIES:
+:ID:       o2b:3fff9aa9-d319-471d-bb29-17f04e617463
+:POSTID:   16
+:EXPORT_FILE_NAME: overview
+:EXPORT_HUGO_MENU_OVERRIDE: :weight 10
+:END:
+
+Assignments for RLG239 are linked here as I put them up on the site. See the [[../../article/wildwater-2-syllabus/][Syllabus]] for an overview of assignments and their values.
+
+* Participation
+:PROPERTIES:
+:EXPORT_FILE_NAME: participation
+:EXPORT_HUGO_MENU_OVERRIDE: :weight 20
+:EXPORT_DATE: 2017-09-06
+:END:
+Your participation mark is substantial (20%) and reflects the unusual nature of the seminar. The mark reflects the following components:
+- Attendance: prompt arrival to class meetings and positive presence in class.
+- Active Listening: paying attention during class meetings, asking appropriate questions, engaging in discussion, sharing comments, demonstrating interest and enthusiasm (this includes body language), exercising critical thinking, note taking, entertaining contradictory perspectives, engaging and acknowledging the presence of all participants.
+- Involvement in Group Discussion: sharing knowledge and information, challenging yourself to speak up if you usually don’t, and allowing others to speak if you are a person who tends to dominate discussions.
+- Group Accountability: participating positively as part of a group during all aspects of the course, which includes contributing to the learning of other participants by sharing your own ideas and work.
+- Respect: interacting in a culturally appropriate manner with guest speakers and course participants. See the policies section of the syllabus for more guidance.
+- Questions: at the start of class you will be asked to hand in two thoughtful questions about the week's readings (see the next section for details)
+All of these tasks require you to do the reading and pay attention to lectures (such as they are), and to do so *critically* -- that is, with attention both to what is being said and to what may be left out or misrepresented
+
+** How to create a discussion question
+
+Formulate a good discussion question that will be interesting to other students and call for some thinking about the reading. Try also to find a question that genuinely interests you.  The following are characteristics of a good discussion question:
+
+1. A discussion question cannot be answered yes or no.
+2. A discussion question cannot be answered with a fact.
+3. A discussion question should not require a personal opinion outside the reading.
+4. A discussion questions should redirect the discussion to the reading itself.
+5. A discussion question should ask the discussants to explain the author's meaning and not simply quote the author or authors.
+6. A discussion question should indicate that the person who posed the question is actually curious about the answer.
+7. A discussion question should be answerable with evidence from the reading and common information that has preceded it in the course.
+8. A discussion question should permit several interpretations. In other words, it should be rich enough to offer several possible directions in its answers.
+
+
+** ACTION COMMENT Resources
+add a list of resources here. 
+
+* COMMENT Encountering the Madawaska: Personal Risk Mitigation Plan
+:PROPERTIES:
+:EXPORT_FILE_NAME: risk-assessment
+:EXPORT_HUGO_MENU_OVERRIDE: :weight 15
+:EXPORT_DATE: 2017-09-30
+:END:
+This Pass/Fail assignment is worth 5% of your final grade, and is due <2017-10-02 Mon>. 
+
+Before completing this assignment, carefully read the Trip Description, as well as Chapter 3 of [[http://www.tandfebooks.com.myaccess.library.utoronto.ca/doi/book/10.4324/9781315736488][Beames & Brown, /Adventurous Learning/]], esp. pp. 24-25, 30-33.  
+** Risk Assessment
+"Risk" is not only a concept of recent origin (cf. [[http://www.tandfebooks.com.myaccess.library.utoronto.ca/doi/book/10.4324/9781315736488][Beames & Brown 2016]]), but a feature of many parts of our experience: physical, social, emotional, etc. In a brief statement or essay of no more than 300 words, describe the various risks involved in a trip such as "Encountering the Madawaska," foregrounding those you think are most serious.  
+** Learning Goals
+One often-repeated risk management principle for outdoor educators is that risks should be taken only where they contribute directly to the learning outcomes of the experience (or, phrased differently, to the mission of the organization). What goals have you set yourself for this trip (or, if you are unable to attend, what goals /would/ you set for yourself if you were to come)? Answer in no more than 200 words.
+** Personal Risk Mitigation Strategy
+How can you personally minimize unnecessary risk, and optimize the outcome in any risky situation you encounter, while simultaneously attaining the goals stated above? Again, answer in approximately 200 words.
+** Group Risk Mitigation
+What responsibilities  lie not with you, but with your instructors? What can you expect from Prof. Price and your guides? Can your enhance the learning outcomes for the group as a whole? Another 200 words
+
+This assignment asks you to think about the risks and learning outcomes associated with our upcoming excursion.  Details Coming Soon
+** Submission
+Please submit your work via [[https://www.dropbox.com/request/48XaFeeeaZHAeLSUOrEb][this Dropbox Request link]]!
+** COMMENT content
+* COMMENT Encountering the Madawaska
+:PROPERTIES:
+:EXPORT_FILE_NAME: encountering-the-mad
+:EXPORT_HUGO_MENU_OVERRIDE: :weight 20
+:EXPORT_DATE: 2017-09-30
+:END:
+
+*Due Date:* Paper <2017-10-16 Mon>; Participation before, during, and after trip
+
+This assignment involves participation in and reflection on an excursion to the Madawaska River, where we will learn about the history and geography of the region while camping on the river bank and taking white water skills instruction. +Trip is currently scheduled for Oct. 7 and 8 though this may change depending on student and skills instructor availability.+ *Final dates of the trip have been set for Oct. 6 through 8.*
+
+Please make sure to read and fill out [[../../docs/madawaska-package.pdf][the trip documents package!]]
+
+Note: I've now added a [[/docs/mad-resources.pdf][list of resources for the history/ecology/geology jobs]]. Please use them!
+
+** Requirements
+Your mark on this assignment is determined as follows: 
+- 2/3 participation
+- 1/3 written reflection
+
+Let's look at each of these in more detail.
+*** Participation
+This is a group activity whose success depends on your active and meaningful participation in preparation, execution, and debriefing.  
+
+For our purposes, "active and meaningful participation" includes: 
+
+- *Contributing substantively to the pre-trip planning process*, e.g.:
+  - filling out the gear and task spreadsheet in in a timely fashion
+  - executing your logistical tasks in a friendly and effective manner
+  - participating in on- and off-line discussions regarding gear, rendezvous points, etc.
+- Fulfilling the requirements of *both your trip jobs* ("logistical" and "intellectual")
+  - in particular, your "intellectual job" should add substantively to the group's understanding of the Madawaska River and the trip itself
+- *Active Listening:* paying attention throughout the trip, asking appropriate questions both during technical instruction and in group meetings, engaging in discussion, sharing comments, demonstrating interest and enthusiasm (this includes body language), exercising critical thinking, note taking, entertaining contradictory perspectives, engaging and acknowledging hosts’ presence.
+- *Involvement in Group Discussion:* sharing knowledge and information, challenging yourself to speak up if you usually don’t, and allowing others to speak if you are a person who tends to dominate discussions
+- *Group Accountability:* participating positively as part of a group during all activities.
+- *Respect:* interacting in a culturally appropriate manner with hosts and local communities while traveling.
+- *Engagement:* you are expected to work hard at technical skills and follow instruction, and also to participate in camp-making and camp-breaking activities, as well as cooking, dishwashing, etc.  
+- *Surveys:* completion of pre- and post-trip surveys is mandatory and, while your responses will be anonymized, your response or non-response will be noted.
+- *Peer Appreciation:* You'll be asked to highlight one significant contribution made by each member of your group. 
+
+Your participation mark is *not* meant to reflect your *technical proficiency* at the end of the whitewater course -- though your *effort* in the technical instruction will e taken into account. 
+
+Evaluation will be based on instructor notes taken during the excursion. 
+
+*** Reflection Paper
+Write a paper of ~1000 words (no more than 1250) in which you take one aspect of your experience on the Madawaska as the starting point for an exploration of themes related to the course. 
+**** What is a reflection paper?
+By reflection paper, I mean a piece of argumentative writing that takes /thoughtful reflection/ on your own experience as the starting point and immediate evidentiary basis for an engagement with course readings and themes.   In this case, you might choose any of several lines of inquiry:
+- *risk and pedagogy:* Both [[http://myaccess.library.utoronto.ca/login?url=http://www.tandfebooks.com/doi/book/10.4324/9781315736488][Beames & Brown]] and [[http://journals.sagepub.com.myaccess.library.utoronto.ca/doi/abs/10.1177/105382599802100203][Brown]] discuss the literature on risk in outdoor education (or what Beames & Brown call "adventurous education"). You might take this opportunity to reflect on the sensation of risk (physical, social, emotional ,etc.) and how it affected your experience of the trip, and the overall learning outcomes.
+- *river histories:* here there are several angles you might take. We've read a little bit about river economies, about cultural practices around rivers, and (to a much lesser extent) about experiences of the sacred. Do your experiences o n the trip give you insight into any of those questions? 
+**** Marking criteria
+As with any written assignment, I mark on the basis of the following criteria:
+- *Thesis, Argument and Evidence:* Is it clear what you are arguing for? Do your arguments "cohere", that is, are they self-consistent? Does the evidence you bring forward actually support your claims?
+- *Style and Grammar:* Do your phrasing and sentence structure make it easy (even fun) to understand your arguments, or do they get in the way? Do you make frequent grammatical errors?
+- *Spelling and Citations:* Do you make frequent typographical errors? Have you used a consistent citation style such as Chicago Manual of Style, MLA, or APA?  
+For a reflection paper, I add the following:
+- does the paper display some sense of the *appropriate scope of arguments from experience*? That is, do you seem to understand both the *limits* of reflection (e.g., the difficulty of generalizing from a single person's experience) and its *specific epistemic virtues* (e.g., the strong power of analogy and empathy to craft meaningful narratives)?
+An *A* or excellent paper will be clear, concise, well-organized and thoughtful.  It will in general include supporting evidence, be divided logically into paragraphs, have minimal spelling and grammatical errors, and will be of appropriate length.  A *B* paper will share those virtues but to a lesser degree. A *C* paper will be missing some of these virtues.  A *D* or *F* paper will lack many of them. 
+**** Citations
+Note on citations: I don't care what citation style you use, but you should use it properly and consistently.  I *very strongly recommend* the use of a citation manager, such as [[http://zotero.org][Zotero]].  It will not make much difference for this class, but over the next few years it will save you an *enormous* amount of work.  You may in any case want to join the [[https://www.zotero.org/groups/1548810/river-research][river project library]], which will give you access to a large number of sources.  
+**** Submission
+Please submit your work [[https://www.dropbox.com/request/UtRTRypzrYGFU7D8gAEg][using this Dropbox Requests link]]. 
+- use an editable format, such as .doc, .docx, or .odt. Despite their many limitations, these formats are excellent for review and commenting.
+- Include your name somewhere in the file. I need to be able to keep track of which paper is whose!
+- Please do *not* include your student number in the paper.  
+* COMMENT IEE2: Encountering our Backyard
+
+* COMMENT Mississippi Response Paper
+:PROPERTIES:
+:EXPORT_FILE_NAME: response-paper-1
+:EXPORT_HUGO_MENU_OVERRIDE: :weight 20
+:EXPORT_DATE: 2017-10-18
+:END:
+
+*Due Date Updated: *
+** General Guidelines
+By "Response Paper", I mean a brief argumentative essay responding directly to issues raised by course readings. Usually response papers work best when framed either as a disagreement with, or an expansion of, the original author's ideas.  So, for instance, here are two ways one might respond to Plato's [[https://faculty.washington.edu/smcohen/320/cave.htm][Allegory of the Cave]]: 
+
+#+BEGIN_QUOTE
+While Plato argues convincingly that we have no direct access to the material world, his cave metaphor ultimately fails. In particular, I will argue that there is simply no way that the captive observers could be adequately fed without coming to understand that the world has 3 dimensions and that they are imprisoned within it. This has important consequences for any version of Idealism that seeks to ground itself in Plato's work.
+#+END_QUOTE
+
+or
+
+#+BEGIN_QUOTE
+One puzzling aspect of Plato's remarkably successful and almost wholly convincing account of the Cave has to do with the manner in which a captive observer would escape and bring the news of an external world to his or her fellow prisoners. In this paper, drawing on the work of David Copperfield and Harry Houdini, I will outline the precise steps required to effect such an escape. I'll show how a more precise understanding radically deepens our understanding of the human predicament and has broad consequences for a theory of underlying reality and the relationship between the world of Forms and the world of mere phenomena.
+#+END_QUOTE
+
+A response paper has several important components:
+- Understanding of the Text :: The paper should show familiarity with the source text and present a reasonable interpretations of one or more of its arguments
+- Point of Departure :: Your paper should make it quite clear where your own thinking departs from that of the original author
+- Compelling Argument :: Your main points should be well-supported with evidence from the text and elsewhere, and with argumentative tissue that connects the evidence to your claims.
+
+It's also important to attend to spelling, grammar, etc., but these are less crucial than the above.
+
+** Questions
+
+*** Option A
+In the abstract to "Returning to the water...", Jessica Hallenbeck argues:
+#+BEGIN_QUOTE
+The renewal campaign is one example of how water can form the basis of decolonial political practice, revealing colonial understandings of territory, law, and entitlement.
+#+END_QUOTE
+To what extent do you agree with this claim? Could Hallenbeck have used her experience more persuasively to make this argument -- or can you add something to it from your own experience -- or might a different claim have been better supported by the evidence she presents? 
+
+*** Option B
+Hallenbeck also states that:
+#+BEGIN_QUOTE
+The environmental destruction of Onondaga Lake is a form of settler-colonial sexual violence.
+Andrea Smith argues that sexual violence is ‘a wide range of strategies designed not only to
+destroy peoples but to destroy their sense of being as people.’ Lubicon Cree environmental acti-
+vist and scholar Melina Laboucan-Massimo, in reference to the murder of her sister, writes that
+the rape of mother earth and violence against women ‘are inextricably linked.’  A recent /Settler Colonial Studies/ study conducted in British Columbia, Canada, found a connection between extractive industries and domestic abuse.  The environmental destruction of land and water and the removal of Indigenous Peoples from their traditional territories are forms of gender violence. (352-53)
+#+END_QUOTE
+Respond to this claim with further evidence, informed critique, or both. 
+
+*** Option C
+Finally, Hallenbeck also writes:
+#+BEGIN_QUOTE
+The Two Row Wampum enactment was about connecting through water to practice and embody the relationships described in the Two Row Wampum treaty. It was about creating the conditions for radical transformation.... The enactment and the renewal campaign laid out a path to healing relationships. (357)
+#+END_QUOTE
+Does Hallenbeck's assessment seem accurate to you? If so, why? If not, how would you amend this claim to accord with the evidence presented?
+
+* Response Paper 1
+:PROPERTIES:
+:EXPORT_FILE_NAME: response-paper-1
+:EXPORT_HUGO_MENU_OVERRIDE: :weight 20
+:EXPORT_DATE: 2017-10-18
+:END:
+
+*Due Date Updated: Now Due Friday, Feb. 16*
+** General Guidelines
+By "Response Paper", I mean a brief argumentative essay responding directly to issues raised by course readings. Usually response papers work best when framed either as a disagreement with, or an expansion of, the original author's ideas.  So, for instance, here are two ways one might respond to Plato's [[https://faculty.washington.edu/smcohen/320/cave.htm][Allegory of the Cave]]: 
+
+#+BEGIN_QUOTE
+While Plato argues convincingly that we have no direct access to the material world, his cave metaphor ultimately fails. In particular, I will argue that there is simply no way that the captive observers could be adequately fed without coming to understand that the world has 3 dimensions and that they are imprisoned within it. This has important consequences for any version of Idealism that seeks to ground itself in Plato's work.
+#+END_QUOTE
+
+or
+
+#+BEGIN_QUOTE
+One puzzling aspect of Plato's remarkably successful and almost wholly convincing account of the Cave has to do with the manner in which a captive observer would escape and bring the news of an extenral world to his or her fellow prisoners. In this paper, drawing on the work of David Copperfield and Harry Houdini, I will outline the precise steps required to effect such an escape. I'll show how a more precise understanding radically deepens our understanding of the human predicament and has broad consequences for a theory of underlying reality and the relationship between the world of Forms and the world of mere phenomena.
+#+END_QUOTE
+
+A response paper has several important components:
+- Understanding of the Text :: The paper should show familiarity with the source text and present a reasonable interpretations of one or more of its arguments
+- Point of Departure :: Your paper should make it quite clear where your own thinking departs from that of the original author
+- Compelling Argument :: Your main points should be well-supported with evidence from the text and elsewhere, and with argumentative tissue that connects the evidence to your claims.
+
+It's also important to attend to spelling, grammar, etc., but these are less crucial than the above.
+
+** Questions
+
+*** The truth of Anishinaabe power
+On p. 7 of his magesterial /An Infinity of Nations/, Michael Witgen tells us that 
+#+begin_quote 
+The truth of Anishinaabe power and independence is revealed in various Anishinaabe encounters with officials and missionaries recorded by men such as Schoolcraft, Allen, and Boutwell. These men, however, could not comprehend the Native New World that the Anishinaabeg had crated for themselves in the two centuries since their first encounter with the peoples of the Old World. 
+#+end_quote
+
+How does Witgen's account of the rise of Anishinaabe power around the Great Lakes change your view of the American expansion into the West in the 18^{th} and 19^{th} centuries? Do you have any reservations about this new narrative? What are they?
+
+*** Ending an Error
+The authors of "The End of an Error" write: 
+#+begin_quote 
+The devastating experience of New Orleans teaches us that, particularly when we are dealing with complex natural-and-social systems that we do not yet fully understand, we need to be quicker to question the conviction that a project will be “economically vital,” or that environmental and subsequent human damage are “not to be feared.” We need to build our capacity to recognize the potential significance of the harms, as well as the benefits, that we now have the capacity to bring into being—and we need to do a better job of avoiding the kinds of decisions that may prove impossible to undo.
+#+end_quote
+
+In light of this and other readings about pollution and disaster o n the Mississippi, what kinds of policies do you think the Mississippi needs? How should human and ecological interestes be weighted? To what extent are these in conflict with each other? 
+
+*** "The Trouble with Whiteness"
+Stephanie le Menager opens her provocative "Floating Capital" with the following observation:
+#+begin_quote 
+For Twain, the North American West had not been about the political disinterest, domestic economy, and republican virtue long associated with agricultural settlement, from eighteenth-century European agrarian philosophy through Thomas Jefferson. The Mississippi River was the West that Twain returned to, again and again, because it was water and not land that could ever be settled. The river was a carrier of economic desire and troubled commodities that flowed beyond continental spaces, suturing the U.S. to global networks of capital... Twain's classic river novel [is] a profound, postnational critique of white mobility on the western frontier.
+#+end_quote
+
+There's a lot going on in these brief sentences.  Choose one of le Menager's themes -- trade; economic imagination (dreams of wealth, visions of economic disparity); race relations and visions of America's whiteness -- and make your own argument about its appearance in /The Adventures of Huckleberry Finn/.  What do you learn about American society and/or Americans' /views of themselves/ from reading Huck Finn? Support your argument with citations from /Huck Finn/, and feel free to use le Menager's arguments as well. 
+
+
+*** Option A
+In the abstract to "Returning to the water...", Jessica Hallenbeck argues:
+#+BEGIN_QUOTE
+The renewal campaign is one example of how water can form the basis of decolonial political practice, revealing colonial understandings of territory, law, and entitlement.
+#+END_QUOTE
+To what extent do you agree with this claim? Could Hallenbeck have used her experience more persuasively to make this argument -- or can you add something to it from your own experience -- or might a different claim have been better supported by the evidence she presents? 
+*** Option B
+Hallenbeck also states that:
+#+BEGIN_QUOTE
+The environmental destruction of Onondaga Lake is a form of settler-colonial sexual violence.
+Andrea Smith argues that sexual violence is ‘a wide range of strategies designed not only to
+destroy peoples but to destroy their sense of being as people.’ Lubicon Cree environmental acti-
+vist and scholar Melina Laboucan-Massimo, in reference to the murder of her sister, writes that
+the rape of mother earth and violence against women ‘are inextricably linked.’  A recent /Settler Colonial Studies/ study conducted in British Columbia, Canada, found a connection between extractive industries and domestic abuse.  The environmental destruction of land and water and the removal of Indigenous Peoples from their traditional territories are forms of gender violence. (352-53)
+#+END_QUOTE
+Respond to this claim with further evidence, informed critique, or both. 
+
+*** Option C
+Finally, Hallenbeck also writes:
+#+BEGIN_QUOTE
+The Two Row Wampum enactment was about connecting through water to practice and embody the relationships described in the Two Row Wampum treaty. It was about creating the conditions for radical transformation.... The enactment and the renewal campaign laid out a path to healing relationships. (357)
+#+END_QUOTE
+Does Hallenbeck's assessment seem accurate to you? If so, why? If not, how would you amend this claim to accord with the evidence presented?
+
+* COMMENT Response Paper 2
+:PROPERTIES:
+:EXPORT_FILE_NAME: response-paper-2
+:EXPORT_HUGO_MENU_OVERRIDE: :weight 20
+:EXPORT_DATE: 2017-10-18
+:END:
+** General Guidelines
+By "Response Paper", I mean a brief argumentative essay responding directly to issues raised by course readings. Usually response papers work best when framed either as a disagreement with, or an expansion of, the original author's ideas.  So, for instance, here are two ways one might respond to Plato's [[https://faculty.washington.edu/smcohen/320/cave.htm][Allegory of the Cave]]: 
+
+#+BEGIN_QUOTE
+While Plato argues convincingly that we have no direct access to the material world, his cave metaphor ultimately fails. In particular, I will argue that there is simply no way that the captive observers could be adequately fed without coming to understand that the world has 3 dimensions and that they are imprisoned within it. This has important consequences for any version of Idealism that seeks to ground itself in Plato's work.
+#+END_QUOTE
+
+or
+
+#+BEGIN_QUOTE
+One puzzling aspect of Plato's remarkably successful and almost wholly convincing account of the Cave has to do with the manner in which a captive observer would escape and bring the news of an extenral world to his or her fellow prisoners. In this paper, drawing on the work of David Copperfield and Harry Houdini, I will outline the precise steps required to effect such an escape. I'll show how a more precise understanding radically deepens our understanding of the human predicament and has broad consequences for a theory of underlying reality and the relationship between the world of Forms and the world of mere phenomena.
+#+END_QUOTE
+
+A response paper has several important components:
+- Understanding of the Text :: The paper should show familiarity with the source text and present a reasonable interpretations of one or more of its arguments
+- Point of Departure :: Your paper should make it quite clear where your own thinking departs from that of the original author
+- Compelling Argument :: Your main points should be well-supported with evidence from the text and elsewhere, and with argumentative tissue that connects the evidence to your claims.
+
+It's also important to attend to spelling, grammar, etc., but these are less crucial than the above.
+
+-------
+** Questions
+*** Question {{{n}}}
+#+BEGIN_QUOTE
+Emerson's vision of the machine as a force of nature found its fullest expression as part of the old romance of energy in Western society, a dream of liberation from labor, an end to social conflict and environmental degradation through the harnessing of nature's power to human purposes.... [T]hese dreams of energy involved the river as a scene of social struggle. ... Today with the Columbia dammed, those dreams seem collective self-deceptions. But we have really not so much given up our energy dreams as transferred them to other sources: to solar power or to nuclear fusion, clean and unlimited energy that will supposedly save us and our world yet. (48)
+#+END_QUOTE
+What exactly is the "Emersonian vision" to which White refers? Do we really still live within its confines? For good or for ill?
+
+
+*** Question {{{n}}}
+#+BEGIN_QUOTE
+The Columbia Basin Project did not so much eliminate the punishing tasks of rural life as redistribute them. By 1957, 97 percent of the farms on the BPA service area had electricity. Electricity reduced the labor of farm owners and their families, but on the irrigated landscape it created, migrant workers took over hard and often dangerous work. Dams had created the opportunity for new, electrified family farms,  but Mexican and Mexican-American seasonal workers labored in their fields for wages. They often lived in farm labor camps that made unelectrified farmhouses seem bastions of comfort. (71)
+#+END_QUOTE
+White identifies the situation of farm workers as ironic, and specifically, as the betrayal of a promise to "remedy" "injustices". Explain what the means, whether you agree with him, and what kind of conditions would be required to effectively enhance justice and equality via electrical power.
+
+*** Question {{{n}}}
+#+BEGIN_QUOTE
+...[T]the Columbia River Indians, having validated their rights to catch a fish that has been at the center of their common life for millennia, find the fish gone. They have demonstrated their new power and standing by helping to force the issue on the decline of the issue. They have the legal standing to demand that the Columbia's salmon be saved. They are left to savor the bitterness of a promise broken even in its keeping. Saving the salmon means, at least for now, barring most fishing on the river. Half of nothing is nothing.
+#+END_QUOTE
+Explain in more detail the nature of this double-bind or bitter irony in which Native inhabitants of the Columbia River Basin find themselves. As above: what would have to be different in order for this situation to change? 
+
+
+*** Question {{{n}}}
+#+BEGIN_QUOTE
+There is no easy way to disentangle the natural and cultural here.
+
+What is real is the mixture, and we seem unable to come to terms with this even though we have created it. Mumford's jeremiad against the megamachine recognizes that we treat nature as if it were literally a machine that can be disassembled and redesigned largely at will, as if its various parts can be assigned different functions with only a technical relation to other parts and functions. But the Columbia is not just a machine. It is an /organic/ machine. Our tendency to break it into parts does not work. For no matter how much we have created many of its spaces and altered its behavior, it is still tied to larger organic cycles beyond our control. (111-12)
+#+END_QUOTE
+What do you think of White's "organic machine" concept? How well does it describe the Columbia? How broadly applicable is it to other phenomena? Is the right that "there is no easy way to disentangle the natural and cultural here"?
+
+** COMMENT content
+#+BEGIN_QUOTE
+"In thinking of themselves both as children of nature (nature's nation) and as children of the machine (masters of American know-how) Americans were Emersonians.
+
+
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+But historians know that Hardin's odel of the commons is an invention. No such simple commons has ever operated. It never existed on the Columbia. In historical practice users of common resources set up rules and limits; they created customs; they limited access. Fishermen made the actual Columbia a ocmpliated patchwork of competing cliams an dpractices. Indians possessed treaty rights. Gillnetters controlled access to particular drifts: stretches of the river where they cast their nets and floated downstream. Fixed-gear men with their pound nets commandeered space o n the river. Their very equipment fenced out others. Fish wheels tool over old Indian fishing sites and pushed aside the Indians, despite the treaty riths which promised them a particular share of the commons.  
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+Only the new world it would help produce dwarfed Grnad Coulee. Stuart Chase, writing in /Fortune/ in 1933, declared that electric power meant a new kind of civilization....
+TThe new continental economy would be 'like one unified machine, one organic whole.' in this tendency to mix mahcine, nature, and society i to a single metaphorical whole lay a vision of an Emersonian world." (58)
+#+END_QUOTE
+
+The midterm paper is a short essay of 3-5 pages, combining  
+
+
+* COMMENT Response Paper 3
+:PROPERTIES:
+:EXPORT_FILE_NAME: response-paper-3
+:EXPORT_HUGO_MENU_OVERRIDE: :weight 20
+:EXPORT_DATE: 2017-10-18
+:END:
+*Due date: Dec. 7*
+** General Guidelines
+By "Response Paper", I mean a brief argumentative essay responding directly to issues raised by course readings. Usually response papers work best when framed either as a disagreement with, or an expansion of, the original author's ideas.  So, for instance, here are two ways one might respond to Plato's [[https://faculty.washington.edu/smcohen/320/cave.htm][Allegory of the Cave]]: 
+
+#+BEGIN_QUOTE
+While Plato argues convincingly that we have no direct access to the material world, his cave metaphor ultimately fails. In particular, I will argue that there is simply no way that the captive observers could be adequately fed without coming to understand that the world has 3 dimensions and that they are imprisoned within it. This has important consequences for any version of Idealism that seeks to ground itself in Plato's work.
+#+END_QUOTE
+
+or
+
+#+BEGIN_QUOTE
+One puzzling aspect of Plato's remarkably successful and almost wholly convincing account of the Cave has to do with the manner in which a captive observer would escape and bring the news of an extenral world to his or her fellow prisoners. In this paper, drawing on the work of David Copperfield and Harry Houdini, I will outline the precise steps required to effect such an escape. I'll show how a more precise understanding radically deepens our understanding of the human predicament and has broad consequences for a theory of underlying reality and the relationship between the world of Forms and the world of mere phenomena.
+#+END_QUOTE
+
+A response paper has several important components:
+- Understanding of the Text :: The paper should show familiarity with the source text and present a reasonable interpretations of one or more of its arguments
+- Point of Departure :: Your paper should make it quite clear where your own thinking departs from that of the original author
+- Compelling Argument :: Your main points should be well-supported with evidence from the text and elsewhere, and with argumentative tissue that connects the evidence to your claims.
+
+It's also important to attend to spelling, grammar, etc., but these are less crucial than the above.
+** Questions
+*** Question {{{n(t)}}}
+Hans Carlson writes about the legal challenge to hydro-electric development in the James Bay region:
+#+BEGIN_QUOTE
+The James Bay hydroelectric development an the agreement that made it possible became a great challenge to a set of values that had grown around the northern environment over thousands of years and persist into the twenty-first century. (p.235)
+#+END_QUOTE
+What are the  "set of values" and the "challenge" Carlson refers to? Do you agree with this assessment? What relevance does this confrontation between values have for us today? 
+*** Question {{{n(t)}}}
+
+Tom Perrault argues:
+#+BEGIN_QUOTE
+Our forms of water governance must address the human right to water not as an end in
+itself but as a means to attaining the broader objective of a just society. Only by viewing
+water and society as simultaneously social and natural, and thoroughly political – as a
+densely woven hydro-socio-ecological fabric – can we address both ecological govern-
+ance and environmental justice. (p.243)
+#+END_QUOTE
+
+Are you convinced by this argument? What challenges, practical, theoretical, or both, does such a conception face? You should feel free to draw on insights from Zwarteveen &  Boelens in your paper. 
+*** Question {{{n(t)}}}
+Youatt and Smith both explore the complexities of recent political developments in which personhood had been ascribed to rivers and other natural features. Each of them raises substantive political and philosophical issues about these claims, often having to do with /what it means to be a person/, and /the granting of rights to non-humans/. Choose any major argument of either author, and do the following:
+- clearly articulate in your own words the argument and the kind of situation to which it is responding
+- clearly (again) describe one or more substantial conceptual difficulties faced by the argument
+- once again as clearly as possible, show how to overcome the conceptual difficulty, either by modifying the original rgument, or by showing some other way of overcoming the initial impression of difficulty
+
+** COMMENT content
